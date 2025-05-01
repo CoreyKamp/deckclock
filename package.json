@@ -1,7 +1,7 @@
 {
-  "name": "decky-plugin-template",
+  "name": "decky-clock",
   "version": "0.0.1",
-  "description": "A template to quickly create decky plugins from scratch, based on TypeScript and webpack",
+  "description": "Display clock over gameplay",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
